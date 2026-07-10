@@ -30,4 +30,6 @@ Open http://localhost:5173. Any email + password will log you in (mock auth for 
 ## Deployment
 
 **Frontend** auto-deploys to Vercel on push to `main`.
-Live: https://frontend-three-khaki-90.vercel.app
+
+- **Live:** https://logos-health-checkup.vercel.app
+- **Repo:** https://github.com/Vsraju1999/logos-health-checkup
